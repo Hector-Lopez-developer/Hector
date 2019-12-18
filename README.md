@@ -1,2 +1,2 @@
 # Hector
-UX devoloper GAME
+UX developer GAME
